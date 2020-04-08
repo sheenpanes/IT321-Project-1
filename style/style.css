@@ -8,3 +8,8 @@ git *{
 header{
     display: block;
 }
+
+#app.light header{
+    background: #388e3c;
+    color: white;
+}
